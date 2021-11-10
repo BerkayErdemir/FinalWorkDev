@@ -1,5 +1,5 @@
 {
-  "name": "finalwork",
+  "name": "finalworkdev",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BerkayErdemir/FinalWork.git"
+    "url": "git+https://github.com/BerkayErdemir/FinalWorkDev.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BerkayErdemir/FinalWork/issues"
+    "url": "https://github.com/BerkayErdemir/FinalWorkDev/issues"
   },
-  "homepage": "https://github.com/BerkayErdemir/FinalWork#readme",
+  "homepage": "https://github.com/BerkayErdemir/FinalWorkDev#readme",
   "dependencies": {
     "docker": "^1.0.0",
     "express": "^4.17.1",
